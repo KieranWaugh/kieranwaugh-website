@@ -8,7 +8,7 @@ authors:
   - Mark McGill
   - Euan Freeman
 doi: 10.1145/3546155.3546702
-url_pdf: "publication//Users/kieranwaugh/Projects/push-or-pinch-exploring-slider-control-gestures-for-touchless-user-interfaces/paper.pdf"
+url_pdf: "publication//Users/kieranwaugh/Projects/push-or-pinch-exploring-slider-control-gestures-for-touchless-user-interfaces/Push or Pinch.pdf"
 publication: "Nordic Human-Computer Interaction Conference "
 publication_short: NordiCHI ’22
 abstract: Touchless gesture interfaces enable user interaction without the need
