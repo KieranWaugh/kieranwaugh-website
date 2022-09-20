@@ -1,6 +1,5 @@
 ---
-title: "Push or Pinch? Exploring Slider Control Gestures for Touchless User
-  Interfaces "
+title: "Push or Pinch? Exploring Slider Control Gestures for Touchless User Interfaces "
 publication_types:
   - "1"
 authors:
