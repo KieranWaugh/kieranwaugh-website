@@ -27,7 +27,6 @@ content:
   # Contact details (edit or remove options as required)
   email: k.waugh.1@research.gla.ac.uk
   address:
-    street: Sir Alwyn Williams Building
     city: Glasgow
     region: Scotland
     country: Scotland
