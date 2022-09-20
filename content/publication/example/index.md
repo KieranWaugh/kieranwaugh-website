@@ -1,79 +1,48 @@
 ---
-title: 'An example conference paper'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+abstract: Public touchscreens are filthy and, regardless of how often they are
+  cleaned, they pose a considerable risk in the transmission of bacteria and
+  viruses. While we rely on their use, we should find a feasible alternative to
+  touch devices. Non-touch interaction, via the use of mid-air gestures, has
+  been previously labelled as not user-friendly and unsuitable. However,
+  previous works have extensively compared such interaction to precise mouse
+  movements. In this paper, we investigate and compare the usability of an
+  interface controlled via a touchscreen and a non-touch device. Participants (N
+  = 22) using a touchscreen and the Leap Motion Controller, performed tasks on a
+  mock-up ticketing machine, later evaluating their experience using the System
+  Usability and Gesture Usability scales. Results show that, in contrast to the
+  previous works, the non-touch method was usable and quickly learnable. We
+  conclude with recommendations for future work on making a non-touch interface
+  more user-friendly.
+slides: ""
+url_pdf: ""
+publication_types:
+  - "1"
 authors:
   - admin
-  - Robert Ford
-
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-
-date: '2013-07-01T00:00:00Z'
-doi: ''
-
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ['1']
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
+  - Judy Robertson
+summary: ""
+url_dataset: ""
+url_project: ""
+author_notes: []
+publication_short: In *INTERACT 2021*
+url_source: ""
+url_video: ""
+publication: In *Human-Computer Interaction – INTERACT 2021.*
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+date: 2022-09-20T18:45:25.466Z
+url_slides: ""
+title: Don’t Touch Me!
+subtitle: A Comparison of Usability on Touch and Non-touch Inputs
+tags: []
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
+  caption: ""
+  focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
+doi: https://doi.org/10.1007/978-3-030-85607-6_46
 ---
 
 {{% callout note %}}
