@@ -39,8 +39,9 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
+  filename: equiptment.jpg
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
-doi: https://doi.org/10.1007/978-3-030-85607-6_46
+doi: 10.1007/978-3-030-85607-6_46
 ---
