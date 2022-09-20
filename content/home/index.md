@@ -1,7 +1,9 @@
 ---
-# Homepage
 type: widget_page
-
-# Homepage is headless, other widget pages are not.
+widget: https://wowchemy.com/docs/page-builder/)
+widget_id: home
 headless: true
+weight: 0
+title: Kieran Waugh
+active: true
 ---
