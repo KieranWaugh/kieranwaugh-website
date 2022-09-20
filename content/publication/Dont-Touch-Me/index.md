@@ -29,7 +29,7 @@ url_source: ""
 url_video: ""
 publication: In *Human-Computer Interaction – INTERACT 2021.*
 featured: false
-date: 2022-09-20T18:45:25.466Z
+date: 2021-08-27T21:18:00.000Z
 url_slides: ""
 title: Don’t Touch Me! A Comparison of Usability on Touch and Non-touch Inputs
 subtitle: ""
