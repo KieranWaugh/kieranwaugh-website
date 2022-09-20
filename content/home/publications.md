@@ -1,7 +1,7 @@
 ---
 widget: pages
 widget_id: recent-publications
-weight: 90
+weight: 40
 title: Recent Publications
 subtitle: ""
 active: true
@@ -24,6 +24,3 @@ design:
   view: citation
   columns: "2"
 ---
-{{% callout note %}}
-See all publications here: [filtering publications](./publication/).
-{{% /callout %}}
