@@ -28,29 +28,19 @@ publication_short: In *INTERACT 2021*
 url_source: ""
 url_video: ""
 publication: In *Human-Computer Interaction – INTERACT 2021.*
-featured: true
+featured: false
 date: 2022-09-20T18:45:25.466Z
 url_slides: ""
-title: Don’t Touch Me!
-subtitle: A Comparison of Usability on Touch and Non-touch Inputs
+title: Don’t Touch Me! A Comparison of Usability on Touch and Non-touch Inputs
+subtitle: ""
 tags: []
 projects: []
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: https://doi.org/10.1007/978-3-030-85607-6_46
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
