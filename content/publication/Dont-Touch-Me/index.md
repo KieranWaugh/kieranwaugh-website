@@ -14,7 +14,7 @@ abstract: Public touchscreens are filthy and, regardless of how often they are
   conclude with recommendations for future work on making a non-touch interface
   more user-friendly.
 slides: ""
-url_pdf: "paper.pdf"
+url_pdf: "publication/Dont-Touch-Me/paper.pdf"
 publication_types:
   - "1"
 authors:
