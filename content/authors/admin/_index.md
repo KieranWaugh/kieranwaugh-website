@@ -1,8 +1,8 @@
 ---
 role: PhD Student
-avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: db115650-15b5-4cc9-a737-8efa01f6449e_1_105_c.jpeg
+bio: PhD Student at the University of Glasgow within the Glasgow Interactive
+  Systems Section.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -13,29 +13,29 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/KieranHCI
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=en&user=nq62qrIAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/kieranwaugh
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/kieranwaugh
 organizations:
   - name: University of Glasgow
+    url: https://www.gla.ac.uk/pgrs/kieranwaugh/#supervisors
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Computer Science
+      institution: The University of Edimburgh
+      year: 2020
+    - course: MSc by Research in Human Computer Interaction
+      institution: The University of Edinburgh
+      year: 2021
+    - course: PhD in Human Computer Interaction
+      institution: University of Glasgow
 superuser: true
 highlight_name: true
 title: Kieran Waugh
