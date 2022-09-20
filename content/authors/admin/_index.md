@@ -4,9 +4,10 @@ avatar_filename: db115650-15b5-4cc9-a737-8efa01f6449e_1_105_c.jpeg
 bio: PhD Student at the University of Glasgow within the Glasgow Interactive
   Systems Section.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Human-Computer Interaction
+  - User-Experience
+  - Gestures
+  - Hand Tracking
 social:
   - icon: envelope
     icon_pack: fas
