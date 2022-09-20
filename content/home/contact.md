@@ -25,7 +25,8 @@ content:
       captcha: true
 
   # Contact details (edit or remove options as required)
-  email: k.waugh.1@research.gla.ac.uk or hi@kieranwaugh.com
+  email: k.waugh.1@research.gla.ac.uk
+  email: hi@kieranwaugh.com
   address:
     country: Scotland
 
