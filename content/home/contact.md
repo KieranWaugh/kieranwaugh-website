@@ -26,9 +26,13 @@ content:
 
   # Contact details (edit or remove options as required)
   email: k.waugh.1@research.gla.ac.uk
-  email: hi@kieranwaugh.com
   address:
+    street: Sir Alwyn Williams Building
+    city: Glasgow
+    region: Glasgow
+    postcode: 'G12 8QN'
     country: Scotland
+    country_code: GB
 
 design:
   columns: '2'
