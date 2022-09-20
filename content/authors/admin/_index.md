@@ -26,11 +26,11 @@ social:
     link: https://www.linkedin.com/kieranwaugh
 organizations:
   - name: University of Glasgow
-    url: https://www.gla.ac.uk/pgrs/kieranwaugh/#supervisors
+    url: https://www.gla.ac.uk/pgrs/kieranwaugh/
 education:
   courses:
     - course: BSc in Computer Science
-      institution: The University of Edimburgh
+      institution: The University of Edinburgh
       year: 2020
     - course: MSc by Research in Human Computer Interaction
       institution: The University of Edinburgh
@@ -40,7 +40,7 @@ education:
 superuser: true
 highlight_name: true
 title: Kieran Waugh
-email: ""
+email: "hi@kieranwaugh.com"
 ---
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
