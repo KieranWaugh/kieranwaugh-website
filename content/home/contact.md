@@ -29,8 +29,7 @@ content:
   address:
     street: Sir Alwyn Williams Building
     city: Glasgow
-    region: Glasgow
-    postcode: 'G12 8QN'
+    region: Scotland
     country: Scotland
     country_code: GB
 
