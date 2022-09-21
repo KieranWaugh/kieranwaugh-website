@@ -14,7 +14,7 @@ abstract: Touchless gesture interfaces enable user interaction without the need
   for direct physical contact. Recently there has been increased interest in
   deploying such interfaces over concerns about touchscreen sterility. Many
   touchless displays use gestures that mimic pointer-based interactions, with a
-  `cursor' mapped to finger position, that users activate by `pushing' their
+  cursor mapped to finger position, that users activate by pushing their
   finger forwards. Mid-air pushing with a virtual cursor is fine for discrete
   interactions like button activation; however, users have difficulty exerting
   control over continuous interactions like sliding and scrolling, because it is
