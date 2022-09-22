@@ -24,7 +24,7 @@ abstract: Touchless gesture interfaces enable user interaction without the need
   gestures are preferred by most users and offer a faster alternative for
   acquiring control of sliders, as pinching has two clearly defined states and
   avoids the ambiguous use of depth for delineating input states.
-draft: false
+draft: true
 featured: false
 image:
   filename: featured
