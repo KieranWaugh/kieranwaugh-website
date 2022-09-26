@@ -6,6 +6,7 @@ bio: PhD Student at the University of Glasgow within the Glasgow Interactive
 interests:
   - Human-Computer Interaction
   - User-Experience
+  - Mixed-Reality (XR)
   - Gestures
   - Hand Tracking
 social:
