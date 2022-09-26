@@ -1,6 +1,6 @@
 ---
 role: PhD Student
-avatar_filename: db115650-15b5-4cc9-a737-8efa01f6449e_1_105_c.jpeg
+avatar_filename: avatar.jpeg
 bio: PhD Student at the University of Glasgow within the Glasgow Interactive
   Systems Section.
 interests:
@@ -42,4 +42,4 @@ highlight_name: true
 title: Kieran Waugh
 email: hi@kieranwaugh.com
 ---
-Add bio here
+My research focuses on touchless interactions and how we can make them more user friendly.
