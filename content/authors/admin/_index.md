@@ -1,5 +1,5 @@
 ---
-role: PhD Student
+role: PhD Student in Human-Computer Interaction
 avatar_filename: avatar.jpeg
 bio: PhD Student at the University of Glasgow within the Glasgow Interactive
   Systems Section.
@@ -42,4 +42,6 @@ highlight_name: true
 title: Kieran Waugh
 email: hi@kieranwaugh.com
 ---
-My research focuses on touchless interactions and how we can make them more user friendly.
+Hi there! I'm PhD candidate at the University of Glasgow within the [Glasgow Interactive Systems Section](https://www.gla.ac.uk/schools/computing/research/researchsections/gist-section/).
+
+My research focuses on touchless displays and how we can make them more user-friendly. I primarily explore alternative interaction techniques for mid-air hand systems in order to improve usability and increase user satisfaction. My goal is to see above screen interactions in common place
