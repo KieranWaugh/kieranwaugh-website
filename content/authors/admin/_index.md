@@ -46,3 +46,5 @@ email: hi@kieranwaugh.com
 Hi there! I'm PhD candidate at the University of Glasgow within the [Glasgow Interactive Systems Section](https://www.gla.ac.uk/schools/computing/research/researchsections/gist-section/).
 
 My research focuses on touchless displays and how we can make them more user-friendly. I primarily explore alternative interaction techniques for mid-air hand-tracking based systems in order to improve usability and increase user satisfaction. My goal is to see above screen interactions in common place where we can move beyond the reliance on the conventional public touchscreen!
+
+I am actively looking for research opportunities and internships so feel free to reach out!
