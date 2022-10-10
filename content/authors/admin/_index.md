@@ -5,10 +5,10 @@ bio: PhD Student at the University of Glasgow within the Glasgow Interactive
   Systems Section.
 interests:
   - Human-Computer Interaction
-  - User-Experience
-  - Mixed-Reality (XR)
   - Gestures
+  - User-Experience
   - Hand Tracking
+  - Mixed-Reality (XR)
 social:
   - icon: envelope
     icon_pack: fas
