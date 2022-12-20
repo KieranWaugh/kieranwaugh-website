@@ -30,14 +30,14 @@ organizations:
     url: https://www.gla.ac.uk/pgrs/kieranwaugh/
 education:
   courses:
-    - course: BSc in Computer Science
-      institution: The University of Edinburgh
-      year: 2020
+    - course: PhD in Human Computer Interaction
+      institution: University of Glasgow
     - course: MSc by Research in Human Computer Interaction
       institution: The University of Edinburgh
       year: 2021
-    - course: PhD in Human Computer Interaction
-      institution: University of Glasgow
+    - course: BSc in Computer Science
+      institution: The University of Edinburgh
+      year: 2020
 superuser: true
 highlight_name: true
 title: Kieran Waugh
