@@ -1,6 +1,6 @@
 ---
 role: PhD Student in Human-Computer Interaction
-avatar_filename: avatar.jpeg
+avatar_filename: avatar.jpg
 bio: PhD Student at the University of Glasgow within the Glasgow Interactive
   Systems Section.
 interests:
