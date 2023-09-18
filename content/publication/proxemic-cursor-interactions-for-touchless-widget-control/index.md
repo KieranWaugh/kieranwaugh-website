@@ -1,7 +1,6 @@
 ---
 title: Proxemic Cursor Interactions for Touchless Widget Control
 publication_types:
-  - "0"
   - "1"
 authors:
   - admin
