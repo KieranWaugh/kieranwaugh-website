@@ -4,8 +4,8 @@ publication_types:
   - "1"
 authors:
   - admin
-  - Euan Freeman
   - Mark McGill
+  - Euan Freeman
 doi: 10.1145/3607822.3614525
 publication: 2023 ACM Symposium on Spatial User Interaction
 publication_short: SUI '23
