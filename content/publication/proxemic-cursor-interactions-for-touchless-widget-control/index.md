@@ -29,7 +29,7 @@ featured: false
 projects:
   - Touchless Proxemic Cursor
 image:
-  filename: featured
+  filename: proxemicconcept.png
   focal_point: Smart
   preview_only: false
 date: 2023-09-18T14:48:17.243Z
