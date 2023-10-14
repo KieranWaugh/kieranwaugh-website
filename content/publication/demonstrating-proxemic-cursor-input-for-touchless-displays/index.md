@@ -1,7 +1,6 @@
 ---
 title: Demonstrating Proxemic Cursor Input for Touchless Displays
 publication_types:
-  - "0"
   - "1"
 authors:
   - Admin
