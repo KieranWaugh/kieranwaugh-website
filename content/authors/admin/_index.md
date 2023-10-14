@@ -49,4 +49,4 @@ My research focuses on touchless displays and how we can make them more user-fri
 
 I am actively looking for research opportunities and internships so feel free to reach out!
 
-[Download my CV!](uploads/CV.pdf)
+[Download my CV!](assets/media/cv.pdf)
